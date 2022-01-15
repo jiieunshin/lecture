@@ -1,1 +1,1 @@
-* Topics in Statistics 1, 2021, Autumn
+* Topics in Statistics 1, Autumn, 2021
